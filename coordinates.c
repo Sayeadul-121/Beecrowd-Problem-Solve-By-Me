@@ -26,11 +26,11 @@ int main()
     }
     else if (x == 0)
     {
-        printf("Exio Y");
+        printf("Eixo Y\n");
     }
     else if (y == 0)
     {
-        printf("Exio X");
+        printf("Eixo X\n");
     }
     
 
